@@ -1,7 +1,8 @@
 These EsGlobe apps can be installed by
 
 cd ~/public_html/esglobe
-./install-app <name>
+
+./install-app name
 
 e.g.
 
