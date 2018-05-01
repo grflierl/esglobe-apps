@@ -20,4 +20,6 @@ over large datasets.
 * atmos : Atmospheric trajectories from GFS data; atmos/install will
            refresh it for the current snapshot
 * esrl : Amospheric climatology from ESRL
-* 307 : 12.307 requires atmos, esrl, ocean, makemap
+* 307 : 12.307 includes atmos, esrl, ocean, makemap
+* two : sample two-sphere display
+* 8.012 : coriolis forces
