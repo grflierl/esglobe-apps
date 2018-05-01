@@ -14,9 +14,9 @@ Some of these assume that /var/www/html/esglobe points to the directory where
 esglobe is installed.  Some of these have an "install" file which will copy
 over large datasets.
 
-* makemap  Convert to Eckert IV projection
-* ocean    Ocean trajectories from Eccov4r2 climatology
-* atmos    Atmospheric trajectories from GFS data; atmos/install will
+* makemap : Convert to Eckert IV projection
+* ocean : Ocean trajectories from Eccov4r2 climatology
+* atmos : Atmospheric trajectories from GFS data; atmos/install will
            refresh it for the current snapshot
-* esrl     Amospheric climatology from ESRL
-* 307      12.307 requires atmos, esrl, ocean, makemap
+* esrl : Amospheric climatology from ESRL
+* 307 : 12.307 requires atmos, esrl, ocean, makemap
